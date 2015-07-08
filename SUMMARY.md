@@ -1,8 +1,8 @@
 # Summary
 
-* [Introduction]
+* [Introduction](0.0.CourseIntroduction.md)
 	* [Document and Copyright Information](0.1.DocumentAndCopyrightInfo.md)
-* [Data Translation Basics](README.md)
+* [Data Translation Basics](1.0.DataTranslationBasics.md)
     * [What is FME](1.1.What is FME.md)
     * [How FME Works](1.2.FMEDataModel.md)
     * [FME Desktop Components](1.3.FMEDesktopComponents.md)
