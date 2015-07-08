@@ -13,3 +13,4 @@
     * [Data Inspection](1.8.WhatIsDataInspection.md)
     * [Introduction to FME Data Inspector](1.9.IntroductionToDataInspector.md)
     * [FME Data Inspector Components](1.10.DataInspectorComponents.md)
+    * [Using the FME Data Inspector](1.11.InspectingData.md)
