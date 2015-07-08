@@ -9,3 +9,4 @@
     * [Introduction to FME Workbench](1.4.IntroductionToWorkbench.md)
     * [FME Workbench Components](1.5.FMEWorkbenchComponents.md)
     * [Window Control in Workbench](1.6.WindowControl.md)
+    * [Creating a Translation](1.7.CreatingATranslation.md)
