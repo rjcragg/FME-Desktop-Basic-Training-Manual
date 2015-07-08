@@ -7,4 +7,5 @@
     * [How FME Works](1.2.FMEDataModel.md)
     * [FME Desktop Components](1.3.FMEDesktopComponents.md)
     * [Introduction to FME Workbench](1.4.IntroductionToWorkbench.md)
-    * [FME Workbench Windows](1.5.WindowControl.md)
+    * [FME Workbench Components](1.5.FMEWorkbenchComponents.md)
+    * [Window Control in Workbench](1.6.WindowControl.md)
