@@ -12,3 +12,4 @@
     * [Creating a Translation](1.7.CreatingATranslation.md)
     * [Data Inspection](1.8.WhatIsDataInspection.md)
     * [Introduction to FME Data Inspector](1.9.IntroductionToDataInspector.md)
+    * [FME Data Inspector Components](1.10.DataInspectorComponents.md)
