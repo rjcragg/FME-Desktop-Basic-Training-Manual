@@ -1,2 +1,2 @@
-# FME-Desktop-Basic-Training-Manual
-A repository for the FME Desktop Basic Training Manual in MarkDown format
+# FME Desktop Basic Training Manual
+This is a basic training course for FME Desktop
