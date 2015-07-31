@@ -2,7 +2,8 @@
     "plugins": [
         "quiz"
     ],
-    "pluginsConfig": {    "quiz": {
+"pluginsConfig": {
+    "quiz": {
         "labels": {
             "showCorrect"       : "",   // default is "Show correct answers"
             "check"             : "",   // default is "Check"
