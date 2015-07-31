@@ -1,6 +1,6 @@
 # Summary
 
-* [Welcome](README.md)
+* [Introduction](README.md)
 * [Introduction](0.00.CourseIntroduction.md)
    * [Document and Copyright Information](0.01.DocumentAndCopyrightInfo.md)
    * [Course Overview](0.02.CourseOverview.md)
