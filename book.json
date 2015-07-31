@@ -1,7 +1,7 @@
 {
-    "plugins": [
-        "quiz"
-    ],
+    plugins: ["quiz"]
+}
+
 "pluginsConfig": {
     "quiz": {
         "labels": {
@@ -19,5 +19,4 @@
             "showExplanation"   : true  // set to false to disable "show explanation" button
         }
     }
-}
 }
