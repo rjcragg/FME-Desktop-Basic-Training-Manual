@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Before we get started...](0.00.CourseIntroduction.md)
+* [Welcome](0.00.CourseIntroduction.md)
    * [Document and Copyright Information](0.01.DocumentAndCopyrightInfo.md)
    * [Course Overview](0.02.CourseOverview.md)
    * [Course Resources](0.03.CourseResources.md)
